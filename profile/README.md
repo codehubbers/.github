@@ -44,7 +44,7 @@ Want to contribute?
 
 ## 📣 Join the Community
 
-- 💬 Chat with us on [Discord](https://discord.gg/TYb6nX2aqJ)
+- 💬 Chat with us on [Discord](https://discord.gg/NW2YZACf4k)
 
 ---
 
