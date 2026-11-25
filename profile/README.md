@@ -19,7 +19,7 @@ A desktop-style operating system that runs in your browser, with windows, a task
 
 <p align="center">
   <a href="https://orbitos.codehubbers.com">
-    <img src="https://raw.githubusercontent.com/codehubbers/.github/main/profile/assets/orbitos-desktop.jpg" alt="OrbitOS desktop with the Music Player and the Weather widget" width="820">
+    <img src="https://raw.githubusercontent.com/codehubbers/.github/main/profile/assets/orbitos-desktop.jpg?v=2" alt="OrbitOS desktop with the Music Player and the Weather widget" width="820">
   </a>
 </p>
 
